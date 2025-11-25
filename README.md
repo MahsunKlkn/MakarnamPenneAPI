@@ -2,6 +2,14 @@
 
 Bu proje, .NET 8 kullanılarak geliştirilmiş, N-Katmanlı mimariye (N-Layer Architecture) sahip kapsamlı bir E-Ticaret RESTful API projesidir. İçerisinde ürün yönetimi, sepet işlemleri, sipariş takibi, kullanıcı yetkilendirme (JWT) ve Iyzico ödeme entegrasyonu bulunmaktadır.
 
+> **⚠️ ÖNEMLİ NOT: Proje Durumu**
+>
+> Bu proje şu an için **geliştirme aşamasında yarıda bırakılmıştır**.
+> *   **Kullanıcı Kaydı:** Henüz bir "Register" (Kayıt Ol) endpoint'i geliştirilmemiştir. Testler, veritabanına manuel olarak eklenen kullanıcı verileriyle yapılmıştır.
+> *   **Veritabanı Bağlantıları:** Proje hem yerel geliştirme (SQL Server / Local PostgreSQL) hem de bulut dağıtımı (Render.com) için yapılandırılmıştır. Bu nedenle `appsettings.json` dosyasında birden fazla bağlantı dizesi (`SQLServerConnection`, `DefaultConnection`, `RenderConnection`) bulunmaktadır. Şu anda aktif olan yapılandırma **Render (PostgreSQL)** üzerinedir.
+> *   **Sabırsızlık Uyarısı:** Kodlarda hızlı ilerlemek adına bazı pratik çözümler uygulanmış olabilir, refactoring gerektirebilir. :)
+
+
 ## 🚀 Teknolojiler ve Araçlar
 
 *   **.NET 8.0** - Ana Framework
