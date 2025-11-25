@@ -1,0 +1,11 @@
+C:\ECommerce\API\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\ECommerce\API\Entities\bin\Debug\net8.0\Entities.dll
+C:\ECommerce\API\Entities\bin\Debug\net8.0\Entities.pdb
+C:\ECommerce\API\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerce\API\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\ECommerce\API\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\ECommerce\API\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\ECommerce\API\Entities\obj\Debug\net8.0\Entities.dll
+C:\ECommerce\API\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\ECommerce\API\Entities\obj\Debug\net8.0\Entities.pdb
+C:\ECommerce\API\Entities\obj\Debug\net8.0\ref\Entities.dll

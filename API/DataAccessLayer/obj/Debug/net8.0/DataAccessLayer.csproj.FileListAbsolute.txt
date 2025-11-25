@@ -1,0 +1,17 @@
+C:\ECommerce\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\ECommerce\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\ECommerce\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\ECommerce\API\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\ECommerce\API\DataAccessLayer\bin\Debug\net8.0\Entities.dll
+C:\ECommerce\API\DataAccessLayer\bin\Debug\net8.0\Entities.pdb
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\ECommerce\API\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

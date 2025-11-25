@@ -1,0 +1,12 @@
+C:\ECommerce\API\Tool\bin\Debug\net8.0\Tool.deps.json
+C:\ECommerce\API\Tool\bin\Debug\net8.0\Tool.dll
+C:\ECommerce\API\Tool\bin\Debug\net8.0\Tool.pdb
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.csproj.AssemblyReference.cache
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.AssemblyInfoInputs.cache
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.AssemblyInfo.cs
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.csproj.CoreCompileInputs.cache
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.dll
+C:\ECommerce\API\Tool\obj\Debug\net8.0\refint\Tool.dll
+C:\ECommerce\API\Tool\obj\Debug\net8.0\Tool.pdb
+C:\ECommerce\API\Tool\obj\Debug\net8.0\ref\Tool.dll
